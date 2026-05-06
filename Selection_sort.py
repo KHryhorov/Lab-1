@@ -10,9 +10,3 @@ def sort(amount):
         ind = a.index(m)
         a[i], a[ind] = a[ind], a[i]
     print(a)
-sort(100)
-sort(300)
-sort(500)
-sort(1000)
-sort(1500)
-sort(2000
